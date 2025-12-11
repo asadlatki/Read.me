@@ -60,16 +60,17 @@ When I'm not coding, I'm exploring new technologies, improving my craft, or expe
 
 ## 📂 Projects
 
-👉 *Coming Soon — stay tuned for some exciting repos!*
-Feel free to drop feedback, suggestions, or collaboration ideas.
+🏥 MetaCubes — Complete Healthcare ERP Solution
+
+A fully integrated healthcare ERP ecosystem designed to digitalize operations across labs, radiology, and more.
 
 ---
 
 ## 🤝 Let's Connect!
 
 * **GitHub:** *You're already here!*
-* **LinkedIn:** (Add link here)
-* **Email:** (Add email)
+* **LinkedIn:** https://tinyurl.com/Asad-Ali
+* **Email:** asad.alii.latki@gmail.com
 
 ---
 
