@@ -1,1 +1,88 @@
-"Hi, I'm a software engineer with three months of experience under my belt. I specialize in building web applications using Angular 14, TypeScript, HTML, CSS, and JavaScript. I'm passionate about creating clean, intuitive, and user-friendly interfaces, and I love the challenges and problem-solving that come with software development. When I'm not coding, you can find me tinkering with new technologies. Feel free to check out my projects and leave me some feedback!"
+# 👋 Hey, I'm **Asad Ali**
+
+## 🚀 Software Engineer | Full‑Stack Developer | Problem Solver
+
+<div align="center">
+
+```ascii
+      ╔═╗┌─┐┌─┐┌┬┐   ╦  ╦┌─┐┌┬┐┬ ┬┬─┐
+      ╚═╗├┤ ├─┤ │    ╚╗╔╝├┤  │ ├─┤├┬┘
+      ╚═╝└─┘┴ ┴ ┴     ╚╝ └─┘ ┴ ┴ ┴┴└─
+```
+
+</div>
+
+### 👨‍💻 About Me
+
+Hi, my name is **Asad Ali**. I'm a passionate **Software Engineer** with **3+ years of experience** crafting modern, scalable, and intuitive web applications.
+
+I specialize in building full‑stack solutions with:
+
+* **Angular 11+** ⚡ (Modern, powerful, component‑driven frontends)
+* **.NET Core** 🛠️ (Robust, scalable backend services)
+* **SQL** 🗄️ (Optimized queries & efficient database design)
+
+I enjoy turning complex problems into elegant solutions and delivering clean, user-friendly interfaces.
+
+When I'm not coding, I'm exploring new technologies, improving my craft, or experimenting with fun side projects.
+
+---
+
+## 🧩 Tech Stack
+
+<div align="center">
+
+| Frontend    | Backend   | Database           | Tools        |
+| ----------- | --------- | ------------------ | ------------ |
+| Angular 11+ | .NET Core | SQL Server         | Git / GitHub |
+| HTML / SCSS | REST APIs | Stored Procedures  | Postman      |
+| RxJS        | C#        | Query Optimization | Figma        |
+
+</div>
+
+---
+
+## 🌌 Featured Skills
+
+* 🚀 Building scalable enterprise apps
+* 🎨 Crafting clean & futuristic UI designs
+* 📡 API development and integration
+* ⚙️ Performance optimization
+* 🛠️ Problem-solving with a logical, consistent approach
+
+---
+
+## 🛸 My Mission
+
+> *"To build meaningful software that feels simple, fast, and delightful to use—while continuously leveling up my engineering craft."*
+
+---
+
+## 📂 Projects
+
+👉 *Coming Soon — stay tuned for some exciting repos!*
+Feel free to drop feedback, suggestions, or collaboration ideas.
+
+---
+
+## 🤝 Let's Connect!
+
+* **GitHub:** *You're already here!*
+* **LinkedIn:** (Add link here)
+* **Email:** (Add email)
+
+---
+
+<div align="center">
+
+### ✨ *Thanks for stopping by!* <br>
+
+If you like my work, consider giving my repositories a ⭐
+
+```ascii
+     ╔═╗┌─┐┌┬┐┬ ┬┬┌─  ⭐
+     ║  ├─┤ │ │││├┴┐
+     ╚═╝┴ ┴ ┴ └┴┘┴ ┴
+```
+
+</div>
